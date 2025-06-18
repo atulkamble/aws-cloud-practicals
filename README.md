@@ -1,16 +1,3 @@
-## 📦 Suggested GitHub Repo Name:
-
-`aws-cloud-practicals`
-
-or if you prefer something a little more specific:
-
-* `aws-hands-on-labs`
-* `cloud-architect-aws-tasks`
-* `aws-infra-automation-practicals`
-* `aws-labs-and-scripts`
-
----
-
 ## 📓 AWS Practical Task List (with categories)
 
 ### 📁 **01-EC2**
